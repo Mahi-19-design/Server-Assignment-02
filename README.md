@@ -335,14 +335,14 @@ http://localhost:3000
 This API is deployed on Render.
 
 🔗 **Live API Link:**
-`https://your-render-link.onrender.com`
+`https://server-assignment-02.onrender.com/`
 
 ---
 
 # 📬 Postman Documentation
 
 🔗 **Postman Collection Link:**
-`<Your Postman Documentation Link>`
+`https://documenter.getpostman.com/view/50840755/2sBXcGFfng`
 
 All 7 routes are documented with:
 
